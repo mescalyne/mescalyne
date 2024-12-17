@@ -2,7 +2,7 @@
 
 ### My games (on Flutter and/or Flutter Flame)
 
-**Snake Puzzle**: [iOS](https://apps.apple.com/us/app/snake-puzzles/id6738164139)
+**Snake Puzzle**: [iOS](https://apps.apple.com/us/app/snake-puzzles/id6738164139)\n
 **Feast of Deceit**: [iOS](https://apps.apple.com/us/app/feast-of-deceit/id6737427668))
 
 ### My projects
